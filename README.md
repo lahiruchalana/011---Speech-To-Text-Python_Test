@@ -8,4 +8,4 @@ after download .whl file
 2. use following command in project terminal to solve that pyaudio issue in windows
 pip install (file path of .whl) 
 
-ex - pip install C:\Projects\MobiOs_35_pythonSpeechToTextTest\json file name.json
+ex :- pip install C:\Projects\MobiOs_35_pythonSpeechToTextTest\json file name.json
